@@ -23,7 +23,7 @@ Overtime approval at most sites still runs on email threads, paper forms, or ad-
 
 4. Automatically notify the correct next responsible party by email whenever a request changes status, so nothing sits idle waiting to be noticed.
 
-5. Track each employee's remaining OT hours balance against a statutory/company cap, and enforce it at submission.
+5. Track each employee's remaining OT hours balance against a statutory/company cap.
 
 6. Give management a consolidated dashboard: total requests, approved count, total OT hours applied, total payout, and a breakdown by department and by reason for overtime
 
