@@ -45,6 +45,28 @@ Overtime approval at most sites still runs on email threads, paper forms, or ad-
 
 2. Python. Used to implement custom logic for automated status update notifications.
 
+# Solution Architecture & Platform Portability
+
+### Current Implementation
+
+The Overtime Pre-Approval Form is currently implemented on the V-ONE low-code platform, with workflow automation, role-based approval interfaces, business-rule calculations, notifications, and management-level data visualization.
+
+### Potential Enterprise Implementation
+
+The solution concept can be adapted to other enterprise platforms depending on the organization's existing technology ecosystem:
+
+- **Microsoft Power Platform** :Power Apps, Power Automate, Dataverse / SharePoint, and Power BI
+- **ServiceNow** :Request/ticket management and multi-stage approval workflows
+- **Custom Web Application** :Front-end application with backend business logic, database, notification services, and analytics
+
+### Platform-Independent Core
+
+Regardless of the implementation platform, the core solution consists of:
+
+**Approval Workflow + Business-Rule Calculation + Role-Based Access + Automated Notifications + Management Analytics**
+
+The current V-ONE implementation demonstrates the business process and solution design, while the underlying workflow and business logic can be adapted to other platforms.
+
 # Pre-Implementation Findings
 Based on the completed development and pre-implementation testing of the OT Application Portal, several key findings were identified regarding the system’s functionality and readiness for implementation:
 
