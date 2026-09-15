@@ -44,8 +44,6 @@ The affected historical records were reviewed again after the correction to veri
 
 **Result:** PASS
 
-**Evidence:** Add the post-fix screenshot showing the corrected historical records.
-
 ---
 
 ## BUG-002 — Inconsistent OT Reason Categories in Dashboard
@@ -81,10 +79,6 @@ The OT reason values used for dashboard aggregation were standardised so that in
 The OT Reasons Breakdown chart was reviewed again after the correction to verify that the displayed categories are consistent and that unnecessary duplicate categories no longer fragment the visualization.
 
 **Result:** PASS
-
-**Evidence:** `5. Dashboard.png`
-
----
 
 ## Testing Cycle
 
